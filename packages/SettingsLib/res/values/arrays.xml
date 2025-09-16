@@ -282,7 +282,7 @@
 
     <!-- Savitech Patch - START -->
     <!-- Titles for Bluetooth Audio Codec LHDC Playback Quality selection preference. [CHAR LIMIT=70] -->
-    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles" translatable="false" >
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
         <item>Optimized for Connection Quality (64kbps)</item>
         <item>Optimized for Connection Quality (128(V3)/160(V5)kbps)</item>
         <item>Optimized for Connection Quality (192kbps)</item>
@@ -296,7 +296,7 @@
     </string-array>
 
     <!-- Summaries for Bluetooth Audio Codec LHDC Playback Quality selection preference. [CHAR LIMIT=70]-->
-    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries" translatable="false" >
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
         <item>64 kbps</item>
         <item>128(V3)/160(V5) kbps</item>
         <item>192 kbps</item>
@@ -310,37 +310,37 @@
     </string-array>
 
     <!-- Titles for Bluetooth Audio Codec LHDC Low Latency selection preference. [CHAR LIMIT=70] -->
-    <string-array name="bluetooth_enable_a2dp_codec_lhdc_latency_titles" translatable="false" >
+    <string-array name="bluetooth_enable_a2dp_codec_lhdc_latency_titles">
         <item>Low Latency Mode Disable</item>
         <item>Low Latency Mode Enable</item>
     </string-array>
 
     <!-- Summaries for Bluetooth Audio Codec LHDC Latency selection preference. [CHAR LIMIT=70]-->
-    <string-array name="bluetooth_enable_a2dp_codec_lhdc_latency_summaries" translatable="false" >
+    <string-array name="bluetooth_enable_a2dp_codec_lhdc_latency_summaries">
         <item>Low Latency OFF</item>
         <item>Low Latency ON</item>
     </string-array>
 
     <!-- Titles for Bluetooth Audio Codec LHDC Lossless selection preference. [CHAR LIMIT=70] -->
-    <string-array name="bluetooth_enable_a2dp_codec_lhdc_lossless_titles" translatable="false" >
+    <string-array name="bluetooth_enable_a2dp_codec_lhdc_lossless_titles">
         <item>OFF</item>
         <item>ON</item>
     </string-array>
 
     <!-- Summaries for Bluetooth Audio Codec LHDC Lossless selection preference [CHAR LIMIT=70]-->
-    <string-array name="bluetooth_enable_a2dp_codec_lhdc_lossless_summaries" translatable="false" >
+    <string-array name="bluetooth_enable_a2dp_codec_lhdc_lossless_summaries">
         <item>LHDC Lossless OFF</item>
         <item>LHDC Lossless ON</item>
     </string-array>
 
     <!-- Titles for Bluetooth Audio Codec LHDC Lossless Raw mode selection preference. [CHAR LIMIT=70] -->
-    <string-array name="bluetooth_enable_a2dp_codec_lhdc_lossless_raw_titles" translatable="false" >
+    <string-array name="bluetooth_enable_a2dp_codec_lhdc_lossless_raw_titles">
         <item>OFF</item>
         <item>ON</item>
     </string-array>
 
     <!-- Summaries for Bluetooth Audio Codec LHDC Lossless Raw mode selection preference [CHAR LIMIT=70]-->
-    <string-array name="bluetooth_enable_a2dp_codec_lhdc_lossless_raw_summaries" translatable="false" >
+    <string-array name="bluetooth_enable_a2dp_codec_lhdc_lossless_raw_summaries">
         <item>LHDC Lossless Raw Mode OFF</item>
         <item>LHDC Lossless Raw Mode ON</item>
     </string-array>

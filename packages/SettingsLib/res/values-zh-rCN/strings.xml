@@ -326,6 +326,35 @@
     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title" msgid="2076949781460359589">"触发蓝牙音频编解码器\n选择：声道模式"</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality" msgid="3233402355917446304">"蓝牙音频 LDAC 编解码器：播放质量"</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title" msgid="7274396574659784285">"触发蓝牙音频 LDAC\n编解码器选择：播放质量"</string>
+    <!-- Savitech LHDC - START -->
+    <!-- UI debug setting: Select Bluetooth Audio LHDC Playback Quality -->
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">蓝牙音频 LHDC 编解码器：播放质量</string>
+    <!-- UI debug setting: Select Bluetooth Audio LHDC Codec: LHDC Playback Quality -->
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">选择蓝牙音频 LHDC\n编解码器设置：播放质量</string>
+    <!-- UI debug setting: Select Bluetooth Audio LHDC Codec: LHDC Low Latency Summary -->
+    <string name="bluetooth_enable_a2dp_codec_lhdc_playback_quality_summaries">LHDC 编解码器：播放质量</string>
+
+    <!-- UI debug setting: Select Bluetooth Audio LHDC Low Latency -->
+    <string name="bluetooth_enable_a2dp_codec_lhdc_latency">蓝牙音频 LHDC 编解码器：低延迟</string>
+    <!-- UI debug setting: Select Bluetooth Audio LHDC Codec: LHDC Low Latency -->
+    <string name="bluetooth_enable_a2dp_codec_lhdc_latency_dialog_titles">选择蓝牙音频 LHDC\n编解码器设置：延迟</string>
+    <!-- UI debug setting: Select Bluetooth Audio LHDC Codec: LHDC Low Latency Summary -->
+    <string name="bluetooth_enable_a2dp_codec_lhdc_latency_summaries">LHDC 编解码器：低延迟</string>
+
+    <!-- UI debug setting: Select Bluetooth Audio LHDC Lossless -->
+    <string name="bluetooth_enable_a2dp_codec_lhdc_lossless">启用 LHDC-V 无损</string>
+    <!-- UI debug setting: Select Bluetooth Audio LHDC Lossless: LHDC Lossless Audio -->
+    <string name="bluetooth_enable_a2dp_codec_lhdc_lossless_dialog_titles">选择蓝牙音频 LHDC\n编解码器设置：无损音频</string>
+    <!-- UI debug setting: Select Bluetooth Audio LHDC Codec: LHDC Lossless Summary -->
+    <string name="bluetooth_enable_a2dp_codec_lhdc_lossless_summaries">LHDC 编解码器：无损</string>
+
+    <!-- UI debug setting: Select Bluetooth Audio LHDC Lossless Raw Mode -->
+    <string name="bluetooth_enable_a2dp_codec_lhdc_lossless_raw">启用 LHDC-V 无损 Raw 模式</string>
+    <!-- UI debug setting: Select Bluetooth Audio LHDC Lossless Raw Mode: LHDC Lossless Audio -->
+    <string name="bluetooth_enable_a2dp_codec_lhdc_lossless_raw_dialog_titles">选择蓝牙音频 LHDC\n编解码器设置：无损音频（Raw 模式）</string>
+    <!-- UI debug setting: Select Bluetooth Audio LHDC Codec: LHDC Lossless Raw Mode Summary -->
+    <string name="bluetooth_enable_a2dp_codec_lhdc_lossless_raw_summaries">LHDC 编解码器：无损 Raw 模式</string>
+    <!-- Savitech LHDC - END -->
     <string name="bluetooth_select_a2dp_codec_streaming_label" msgid="2040810756832027227">"正在流式传输：<xliff:g id="STREAMING_PARAMETER">%1$s</xliff:g>"</string>
     <string name="select_private_dns_configuration_title" msgid="7887550926056143018">"专用 DNS"</string>
     <string name="select_private_dns_configuration_dialog_title" msgid="3731422918335951912">"选择专用 DNS 模式"</string>

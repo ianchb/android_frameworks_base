@@ -164,6 +164,64 @@
     <item msgid="6173114545795428901">"偏重连接质量"</item>
     <item msgid="4349908264188040530">"尽可能提供更佳音质（自适应比特率）"</item>
   </string-array>
+  <!-- Savitech Patch - START -->
+  <!-- Titles for Bluetooth Audio Codec LHDC Playback Quality selection preference. [CHAR LIMIT=70] -->
+  <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+    <item>偏重连接质量 (64kbps)</item>
+    <item>偏重连接质量 (128(V3)/160(V5)kbps)</item>
+    <item>偏重连接质量 (192kbps)</item>
+    <item>偏重连接质量 (256kbps)</item>
+    <item>偏重连接质量 (320kbps)</item>
+    <item>偏重连接质量 (400kbps)</item>
+    <item>兼顾音频和连接质量 (500kbps)</item>
+    <item>高音频质量 (900kbps)</item>
+    <item>高音频质量 (1000kbps)</item>
+    <item>尽可能提供更佳音质（自适应比特率）</item>
+  </string-array>
+  <!-- Summaries for Bluetooth Audio Codec LHDC Playback Quality selection preference. [CHAR LIMIT=70]-->
+  <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+    <item>64 kbps</item>
+    <item>128(V3)/160(V5) kbps</item>
+    <item>192 kbps</item>
+    <item>256 kbps</item>
+    <item>320 kbps</item>
+    <item>400 kbps</item>
+    <item>500 kbps</item>
+    <item>900 kbps</item>
+    <item>1000 kbps</item>
+    <item>自适应比特率</item>
+  </string-array>
+  <!-- Titles for Bluetooth Audio Codec LHDC Low Latency selection preference. [CHAR LIMIT=70] -->
+  <string-array name="bluetooth_enable_a2dp_codec_lhdc_latency_titles">
+    <item>禁用低延迟模式</item>
+    <item>启用低延迟模式</item>
+  </string-array>
+  <!-- Summaries for Bluetooth Audio Codec LHDC Latency selection preference. [CHAR LIMIT=70]-->
+  <string-array name="bluetooth_enable_a2dp_codec_lhdc_latency_summaries">
+    <item>低延迟模式 - 关闭</item>
+    <item>低延迟模式 - 开启</item>
+  </string-array>
+  <!-- Titles for Bluetooth Audio Codec LHDC Lossless selection preference. [CHAR LIMIT=70] -->
+  <string-array name="bluetooth_enable_a2dp_codec_lhdc_lossless_titles">
+    <item>关闭</item>
+    <item>开启</item>
+  </string-array>
+  <!-- Summaries for Bluetooth Audio Codec LHDC Lossless selection preference [CHAR LIMIT=70]-->
+  <string-array name="bluetooth_enable_a2dp_codec_lhdc_lossless_summaries">
+    <item>LHDC 无损 - 关闭</item>
+    <item>LHDC 无损 - 开启</item>
+  </string-array>
+  <!-- Titles for Bluetooth Audio Codec LHDC Lossless Raw mode selection preference. [CHAR LIMIT=70] -->
+  <string-array name="bluetooth_enable_a2dp_codec_lhdc_lossless_raw_titles">
+    <item>关闭</item>
+    <item>开启</item>
+  </string-array>
+  <!-- Summaries for Bluetooth Audio Codec LHDC Lossless Raw mode selection preference [CHAR LIMIT=70]-->
+  <string-array name="bluetooth_enable_a2dp_codec_lhdc_lossless_raw_summaries">
+    <item>LHDC 无损 Raw 模式 - 关闭</item>
+    <item>LHDC 无损 Raw 模式 - 开启</item>
+  </string-array>
+  <!-- Savitech Patch - END -->
   <string-array name="bluetooth_audio_active_device_summaries">
     <item msgid="8019740759207729126"></item>
     <item msgid="204248102837117183">"，使用中"</item>
